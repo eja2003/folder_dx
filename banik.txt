@@ -1,0 +1,23 @@
+Ringkasan dan Penjelasan Laporan PKL: Provisioning Perangkat FTTH untuk Registrasi Modem Internet
+
+Inti Masalah: Laporan ini membahas tentang pentingnya infrastruktur internet yang cepat dan andal, khususnya melalui teknologi Fiber To The Home (FTTH). Dengan meningkatnya jumlah pengguna internet dan kebutuhan bandwidth yang tinggi, jaringan berbasis kabel tembaga tidak lagi memadai. Oleh karena itu, diperlukan transisi ke jaringan fiber optik. Penulis melakukan penelitian di PT Prestasi Piranti Informasi (Neuviz) untuk memahami dan melaksanakan proses provisioning perangkat FTTH, khususnya registrasi modem ONT (Optical Network Terminal) ke OLT (Optical Line Terminal).
+
+Langkah yang Diambil:
+
+Observasi dan Penelitian: Penulis melakukan observasi langsung di lapangan untuk memahami kondisi kerja dan proses yang ada.
+Registrasi Modem: Penulis melakukan registrasi modem ONT Huawei ke OLT Huawei dengan langkah-langkah teknis yang terperinci, termasuk konfigurasi perangkat keras dan perangkat lunak yang diperlukan.
+Pengujian Koneksi: Setelah registrasi, penulis melakukan pengujian untuk memastikan modem dapat terhubung ke internet dan berfungsi dengan baik.
+Dampak dan Keberhasilan:
+
+Dampak: Proses ini sangat penting untuk meningkatkan kualitas layanan internet bagi pelanggan. Dengan registrasi yang tepat, pelanggan dapat menikmati koneksi internet yang cepat dan stabil.
+Keberhasilan: Penulis berhasil melakukan registrasi modem ONT, yang terbukti dapat mengakses internet dan memenuhi kebutuhan pelanggan.
+Kesesuaian Metode: Penulis mengikuti prosedur yang telah ditetapkan oleh perusahaan dan menggunakan perangkat serta aplikasi yang sesuai. Langkah-langkah yang diambil dalam registrasi modem ONT ke OLT sudah sesuai dengan standar industri, meskipun penulis menyarankan agar pendataan port konfigurasi lebih detail untuk memudahkan troubleshooting di masa depan.
+
+Isi Laporan:
+
+BAB I - Pendahuluan: Memuat latar belakang, tujuan, lokasi, dan sistematika penulisan.
+BAB II - Profil Perusahaan: Menyajikan sejarah, visi, misi, dan budaya kerja perusahaan.
+BAB III - Tinjauan Pustaka: Berisi teori dan referensi terkait teknologi informasi dan jaringan.
+BAB IV - Hasil Pelaksanaan Kerja Praktek: Menjelaskan metodologi, deskripsi kegiatan, dan hasil kegiatan selama PKL.
+BAB V - Kesimpulan dan Saran: Menyimpulkan hasil PKL dan memberikan saran untuk perbaikan di masa depan.
+Dengan demikian, laporan ini memberikan gambaran yang jelas tentang pentingnya infrastruktur FTTH dan proses registrasi modem yang dilakukan, serta dampaknya terhadap layanan internet di Indonesia.
